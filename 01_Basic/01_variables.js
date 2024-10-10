@@ -24,8 +24,4 @@ console.log(acountEmail)
 acountPasward="23456"
 console.log(acountPasward);
 console.log(acountCity);
-
-
-
-// node 01_Basic/01_variables.js
  
